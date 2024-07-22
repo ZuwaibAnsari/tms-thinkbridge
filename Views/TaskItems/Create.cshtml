@@ -1,0 +1,132 @@
+﻿@model TMSMVC.Models.TaskItem
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>TaskItem</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group mb-2">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-2">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-2">
+                <label asp-for="Status" class="control-label"></label>
+                <select asp-for="Status" class="form-control" asp-items="Html.GetEnumSelectList(typeof(TaskStatuses))"></select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-2">
+                <label asp-for="AssignedToDepartmentID" class="control-label"></label>
+                <select asp-for="AssignedToDepartmentID" class="form-control" asp-items="@(new SelectList(ViewBag.Departments, "Value", "Text"))"></select>
+                <span asp-validation-for="AssignedToDepartmentID" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-2">
+                <label asp-for="AssignedToUserID" class="control-label"></label>
+                <select asp-for="AssignedToUserID" class="form-control"></select>
+                <span asp-validation-for="AssignedToUserID" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-2">
+                <label asp-for="ExpectedCompletionDate" class="control-label"></label>
+                <input asp-for="ExpectedCompletionDate" class="form-control" />
+                <span asp-validation-for="ExpectedCompletionDate" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-2">
+                <label asp-for="Priority" class="control-label"></label>
+                <select asp-for="Priority" class="form-control" asp-items="Html.GetEnumSelectList(typeof(TaskPriorities))"></select>
+                <span asp-validation-for="Priority" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-2">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            FillUsers();
+            // var selectedCountry = $("#Country").val();
+            // var selectedRegion = $("#Region").val();
+            // var regionsSelect = $('#Region');
+            // AddRegions(selectedCountry, regionsSelect);
+            // if (selectedRegion != null && selectedRegion != '') {
+            //     regionsSelect.val = selectedRegion;
+            // };
+        });
+
+        $("#AssignedToDepartmentID").change(function () {
+            $('#AssignedToUserID').empty();
+            FillUsers();
+        });
+
+        function FillUsers() {
+            var selectedDept = $("#AssignedToDepartmentID").val();
+            $.ajax({
+                url: '/api/Users/ByDepartmentId/' + selectedDept,
+                type: 'GET',
+                success: function (response) {
+                    var jsonArr = JSON.parse(response);
+                    $("#AssignedToUserID").append($('<option/>', {
+                        value: '',
+                        text: 'Select'
+                    }));
+                    $.each(jsonArr, function (index, user) {
+                        $("#AssignedToUserID").append($('<option/>', {
+                            value: user.Id,
+                            text: user.UserName
+                        }));
+                    });
+                },
+                error: function (error) {
+                    alert(error);
+                    // $(that).remove();
+                    // DisplayError(error.statusText);
+                }
+            });
+        }
+
+        function AddDepartments(selectedCompany, departmentsSelect) {
+            $.ajax({
+                url: '/api/Departments/ByCompanyId/' + selectedCompany,
+                type: 'GET',
+                success: function (response) {
+                    var jsonArr = JSON.parse(response);
+                    departmentsSelect.append($('<option/>', {
+                        value: '',
+                        text: 'Select'
+                    }));
+                    $.each(jsonArr, function (index, department) {
+                        departmentsSelect.append($('<option/>', {
+                            value: department.Id,
+                            text: department.Name
+                        }));
+                    });
+                },
+                error: function (error) {
+                    alert(error);
+                    // $(that).remove();
+                    // DisplayError(error.statusText);
+                }
+            });
+        }
+    </script>
+}

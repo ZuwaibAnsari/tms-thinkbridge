@@ -1,0 +1,42 @@
+﻿@model IEnumerable<TMSMVC.Models.TasksDueReport>
+
+@{
+    ViewData["Title"] = "Task Due Report";
+}
+
+<h1>Task Due Report</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DepartmentName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DueInWeek)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DueInMonth)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model?.Count() > 0)
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DepartmentName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DueInWeek)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DueInMonth)
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

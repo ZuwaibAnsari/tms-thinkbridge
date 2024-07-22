@@ -1,0 +1,170 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Create User";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <h2>Create a new account.</h2>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                <label asp-for="Input.Email">Email</label>
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Input.FullName" class="form-control" autocomplete="fullname" aria-required="true" placeholder="fullname" />
+                <label asp-for="Input.FullName">FullName</label>
+                <span asp-validation-for="Input.FullName" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <select asp-for="Input.CompanyId" class="form-control" aria-required="true"></select>
+                <label asp-for="Input.CompanyId">Company</label>
+                <span asp-validation-for="Input.CompanyId" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <select asp-for="Input.DepartmentId" class="form-control" aria-required="true"></select>
+                <label asp-for="Input.DepartmentId">Department</label>
+                <span asp-validation-for="Input.DepartmentId" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                <label asp-for="Input.Password">Password</label>
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                <label asp-for="Input.ConfirmPassword">Confirm Password</label>
+                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+            </div>
+            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Create</button>
+        </form>
+    </div>
+    @* <div class="col-md-6 col-md-offset-2">
+        <section>
+            <h3>Use another service to register.</h3>
+            <hr />
+            @{
+                if ((Model.ExternalLogins?.Count ?? 0) == 0)
+                {
+                    <div>
+                        <p>
+                            There are no external authentication services configured. See this <a href="https://go.microsoft.com/fwlink/?LinkID=532715">article
+                            about setting up this ASP.NET application to support logging in via external services</a>.
+                        </p>
+                    </div>
+                }
+                else
+                {
+                    <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
+                        <div>
+                            <p>
+                                @foreach (var provider in Model.ExternalLogins!)
+                                {
+                                    <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
+                                }
+                            </p>
+                        </div>
+                    </form>
+                }
+            }
+        </section>
+    </div> *@
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            FillCompanies();
+            // var selectedCountry = $("#Country").val();
+            // var selectedRegion = $("#Region").val();
+            // var regionsSelect = $('#Region');
+            // AddRegions(selectedCountry, regionsSelect);
+            // if (selectedRegion != null && selectedRegion != '') {
+            //     regionsSelect.val = selectedRegion;
+            // };
+        });
+
+        $("#Input_CompanyId").change(function () {
+            var selectedCompany = $("#Input_CompanyId").val();
+            var departmentsSelect = $('#Input_DepartmentId');
+            departmentsSelect.empty();
+            if (selectedCompany != null && selectedCompany != '') {
+                AddDepartments(selectedCompany, departmentsSelect);
+            }
+        });
+
+        function FillCompanies() {
+            $.ajax({
+                url: '/api/Companies/Json',
+                type: 'GET',
+                success: function (response) {
+                    var jsonArr = JSON.parse(response);
+                    $("#Input_CompanyId").append($('<option/>', {
+                        value: '',
+                        text: 'Select'
+                    }));
+                    $.each(jsonArr, function (index, country) {
+                        $("#Input_CompanyId").append($('<option/>', {
+                            value: country.Id,
+                            text: country.Name
+                                }));
+                            });
+                },
+                error: function (error) {
+                    alert(error);
+                    // $(that).remove();
+                    // DisplayError(error.statusText);
+                }
+            });
+        }
+
+        function AddDepartments(selectedCompany, departmentsSelect) {
+            $.ajax({
+                url: '/api/Departments/ByCompanyId/' + selectedCompany,
+                type: 'GET',
+                success: function (response) {
+                    var jsonArr = JSON.parse(response);
+                    departmentsSelect.append($('<option/>', {
+                        value: '',
+                        text: 'Select'
+                    }));
+                    $.each(jsonArr, function (index, department) {
+                        departmentsSelect.append($('<option/>', {
+                            value: department.Id,
+                            text: department.Name
+                        }));
+                    });
+                },
+                error: function (error) {
+                    alert(error);
+                    // $(that).remove();
+                    // DisplayError(error.statusText);
+                }
+            });
+
+
+            // $.getJSON('@Url.Action("GetRegions")', { iso3: selectedCountry }, function (regions) {
+            //     if (regions != null && !jQuery.isEmptyObject(regions)) {
+            //         regionsSelect.append($('<option/>', {
+            //             value: null,
+            //             text: ""
+            //         }));
+            //         $.each(regions, function (index, region) {
+            //             regionsSelect.append($('<option/>', {
+            //                 value: region.Value,
+            //                 text: region.Text
+            //             }));
+            //         });
+            //     };
+            // });
+        }
+    </script>
+}
