@@ -1,145 +1,149 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Z:\\Projects\\Learning\\TMSMVC\\",
+  "WorkspaceRootPath": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\views\\taskitems\\tasksduereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\taskitems\\tasksduereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\views\\taskitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\taskitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\views\\taskitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\taskitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\controllers\\api\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\api\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\controllers\\controllerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\controllerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\models\\tasksduereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:models\\tasksduereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\models\\modelmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:models\\modelmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\controllers\\api\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\api\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\views\\companies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\companies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\models\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:models\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\controllers\\api\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\api\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\views\\taskitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\views\\taskitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\taskitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\controllers\\controllerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\controllerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\views\\taskitems\\tasksduereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\taskitems\\tasksduereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\views\\taskitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\taskitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\controllers\\api\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\api\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\models\\tasksduereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:models\\tasksduereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\models\\modelmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:models\\modelmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\controllers\\api\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\api\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\views\\companies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\companies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\models\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:models\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\controllers\\api\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\api\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\controllers\\api\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\controllers\\api\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\api\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\models\\taskpriorities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\models\\taskpriorities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:models\\taskpriorities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\views\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\views\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:views\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|z:\\projects\\learning\\tmsmvc\\tms-thinkbridge\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C395BAB-AA9E-4BB2-BEEC-82E3BCEC2EB4}|TMSMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -150,15 +154,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 31,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
               "$type": "Bookmark",
@@ -166,15 +174,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -186,27 +186,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -214,19 +194,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -238,15 +210,15 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -258,161 +230,151 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\TaskItems\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\TaskItems\\Edit.cshtml",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\TaskItems\\Edit.cshtml",
+              "RelativeToolTip": "Views\\TaskItems\\Edit.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwG8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T17:11:14.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TasksDueReport.cshtml",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Views\\TaskItems\\TasksDueReport.cshtml",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\TaskItems\\TasksDueReport.cshtml",
               "RelativeDocumentMoniker": "Views\\TaskItems\\TasksDueReport.cshtml",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Views\\TaskItems\\TasksDueReport.cshtml",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\TaskItems\\TasksDueReport.cshtml",
               "RelativeToolTip": "Views\\TaskItems\\TasksDueReport.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-22T16:41:28.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAABgAAAAAAAAAAAAAABkAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T16:12:02.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T16:12:02.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "TasksDueReport.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Models\\TasksDueReport.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\TasksDueReport.cs",
               "RelativeDocumentMoniker": "Models\\TasksDueReport.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Models\\TasksDueReport.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\TasksDueReport.cs",
               "RelativeToolTip": "Models\\TasksDueReport.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T14:44:10.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T14:44:10.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "ModelBase.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Models\\ModelBase.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\ModelBase.cs",
               "RelativeDocumentMoniker": "Models\\ModelBase.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Models\\ModelBase.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\ModelBase.cs",
               "RelativeToolTip": "Models\\ModelBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T12:09:59.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T12:09:59.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ModelMetadata.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Models\\ModelMetadata.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\ModelMetadata.cs",
               "RelativeDocumentMoniker": "Models\\ModelMetadata.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Models\\ModelMetadata.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\ModelMetadata.cs",
               "RelativeToolTip": "Models\\ModelMetadata.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T11:27:32.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T11:27:32.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAC0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T07:39:16.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T07:39:16.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T07:38:36.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T07:38:36.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Views\\TaskItems\\Create.cshtml",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\TaskItems\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\TaskItems\\Create.cshtml",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Views\\TaskItems\\Create.cshtml",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\TaskItems\\Create.cshtml",
               "RelativeToolTip": "Views\\TaskItems\\Create.cshtml",
-              "ViewState": "AQIAACgAAAAAAAAAAAAYwDAAAAASAAAA",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwIIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-21T20:41:10.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Views\\TaskItems\\Index.cshtml",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\TaskItems\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\TaskItems\\Index.cshtml",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Views\\TaskItems\\Index.cshtml",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\TaskItems\\Index.cshtml",
               "RelativeToolTip": "Views\\TaskItems\\Index.cshtml",
               "ViewState": "AQIAACEAAAAAAAAAAAAAABIAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T11:53:47.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T11:53:47.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TaskItemsController.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\TaskItemsController.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\TaskItemsController.cs",
               "RelativeDocumentMoniker": "Controllers\\TaskItemsController.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\TaskItemsController.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\TaskItemsController.cs",
               "RelativeToolTip": "Controllers\\TaskItemsController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA2AAAA",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowGAAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T11:38:04.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "TaskItemsController.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\API\\TaskItemsController.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\API\\TaskItemsController.cs",
               "RelativeDocumentMoniker": "Controllers\\API\\TaskItemsController.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\API\\TaskItemsController.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\API\\TaskItemsController.cs",
               "RelativeToolTip": "Controllers\\API\\TaskItemsController.cs",
               "ViewState": "AQIAAEYAAAAAAAAAAAAqwJwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -421,128 +383,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Users\\Index.cshtml",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Users\\Index.cshtml",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Users\\Index.cshtml",
               "RelativeToolTip": "Views\\Users\\Index.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T10:52:00.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\API\\UsersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\API\\UsersController.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\API\\UsersController.cs",
-              "RelativeToolTip": "Controllers\\API\\UsersController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwBEAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T10:47:15.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T10:40:52.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T10:52:00.638Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\API\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\API\\UsersController.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\API\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\API\\UsersController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwBEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:47:15.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:40:52.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "TaskPriorities.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Models\\TaskPriorities.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\TaskPriorities.cs",
               "RelativeDocumentMoniker": "Models\\TaskPriorities.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Models\\TaskPriorities.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\TaskPriorities.cs",
               "RelativeToolTip": "Models\\TaskPriorities.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T09:49:46.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T09:49:46.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Models\\TaskItem.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwCEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:33:33.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Departments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Edit.cshtml",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Departments\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T08:51:02.876Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "TaskItem.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Models\\TaskItem.cs",
-              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Models\\TaskItem.cs",
-              "RelativeToolTip": "Models\\TaskItem.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAxwCEAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T09:33:33.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Departments\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Departments\\Edit.cshtml",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Departments\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Departments\\Edit.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBQAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T08:51:02.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Companies\\Edit.cshtml",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Companies\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Companies\\Edit.cshtml",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Companies\\Edit.cshtml",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Companies\\Edit.cshtml",
               "RelativeToolTip": "Views\\Companies\\Edit.cshtml",
               "ViewState": "AQIAAAoAAAAAAAAAAAAIwBgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T08:50:27.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T08:50:27.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Departments\\Create.cshtml",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Departments\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Departments\\Create.cshtml",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Departments\\Create.cshtml",
               "RelativeToolTip": "Views\\Departments\\Create.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T08:47:24.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T08:47:24.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Departments\\Index.cshtml",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Departments\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Departments\\Index.cshtml",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Departments\\Index.cshtml",
               "RelativeToolTip": "Views\\Departments\\Index.cshtml",
               "ViewState": "AQIAABYAAAAAAAAAAAAIwCQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T08:42:30.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T08:42:30.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\API\\DepartmentsController.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\API\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\API\\DepartmentsController.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\API\\DepartmentsController.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\API\\DepartmentsController.cs",
               "RelativeToolTip": "Controllers\\API\\DepartmentsController.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAwC4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -551,63 +504,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\DepartmentsController.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\DepartmentsController.cs",
               "RelativeToolTip": "Controllers\\DepartmentsController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAvAAAA",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswGgAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T08:26:48.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Department.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Models\\Department.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Models\\Department.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Models\\Department.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\Department.cs",
               "RelativeToolTip": "Models\\Department.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T06:46:16.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T06:46:16.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ControllerBase.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\ControllerBase.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\ControllerBase.cs",
               "RelativeDocumentMoniker": "Controllers\\ControllerBase.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\ControllerBase.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\ControllerBase.cs",
               "RelativeToolTip": "Controllers\\ControllerBase.cs",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAAANEAAABHAAAA",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-20T20:31:50.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Companies\\Create.cshtml",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Companies\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Companies\\Create.cshtml",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Companies\\Create.cshtml",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Companies\\Create.cshtml",
               "RelativeToolTip": "Views\\Companies\\Create.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T19:12:46.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T19:12:46.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "CompaniesController.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\CompaniesController.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\CompaniesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CompaniesController.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\CompaniesController.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\CompaniesController.cs",
               "RelativeToolTip": "Controllers\\CompaniesController.cs",
               "ViewState": "AQIAAEkAAAAAAAAAAADwv18AAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -616,24 +567,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Companies\\Index.cshtml",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Companies\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Companies\\Index.cshtml",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Views\\Companies\\Index.cshtml",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Views\\Companies\\Index.cshtml",
               "RelativeToolTip": "Views\\Companies\\Index.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAIwCkAAAB+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T19:05:00.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T19:05:00.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "CompaniesController.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\API\\CompaniesController.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\API\\CompaniesController.cs",
               "RelativeDocumentMoniker": "Controllers\\API\\CompaniesController.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\API\\CompaniesController.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\API\\CompaniesController.cs",
               "RelativeToolTip": "Controllers\\API\\CompaniesController.cs",
               "ViewState": "AQIAAE4AAAAAAAAAAAAswBkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -642,63 +592,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Company.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Models\\Company.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\Company.cs",
               "RelativeDocumentMoniker": "Models\\Company.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Models\\Company.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\Company.cs",
               "RelativeToolTip": "Models\\Company.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T18:15:59.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T18:15:38.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAHEAAAAAAAAAAAASwIMAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T15:51:05.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T18:15:59.885Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T18:04:28.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T18:15:38.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAASwIMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:51:05.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:04:28.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "ViewState": "AQIAAGgAAAAAAAAAAAAUwHMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -707,29 +653,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AQIAAAIAAAAAAAAAAAAYwBQAAACHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-18T17:34:35.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T17:34:35.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\Models\\ApplicationUser.cs",
+              "DocumentMoniker": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
-              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\Models\\ApplicationUser.cs",
+              "ToolTip": "Z:\\Projects\\Learning\\TMSMVC\\tms-thinkbridge\\Models\\ApplicationUser.cs",
               "RelativeToolTip": "Models\\ApplicationUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T17:24:11.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T17:24:11.495Z"
             }
           ]
         }

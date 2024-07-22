@@ -88,18 +88,37 @@ namespace TMSMVC.Controllers
         }
 
         // GET: TaskItemsController/Edit/5
-        public ActionResult Edit(int id)
+        public async Task<ActionResult> Edit(string id)
         {
-            return View();
+            _currentUser = _userManager.GetUserAsync(HttpContext.User).Result;
+            var result = await Get("TaskItems/" + id, _currentUser.Id);
+            var result1 = (OkObjectResult)result.Result;
+            var departments = await GetAllDepartments();
+            ViewBag.Departments = departments.Select(c => new SelectListItem { Value = c.Id, Text = c.Name }).ToList();
+            return View(result1?.Value);
         }
 
         // POST: TaskItemsController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public async Task<ActionResult> Edit(string id, IFormCollection collection)
         {
             try
             {
+                _currentUser = _userManager.GetUserAsync(HttpContext.User).Result;
+                var result = await Get("TaskItems/" + id);
+                var result1 = (OkObjectResult)result.Result;
+                TaskItem taskItem = (TaskItem)result1?.Value;
+                if (taskItem != null)
+                {
+                    taskItem.Title = collection["Title"];
+                    taskItem.Description = collection["Description"];
+                    taskItem.Status = (TaskStatuses)Convert.ToInt32(collection["Status"]);
+                    taskItem.Modified = DateTime.Now;
+                    taskItem.ModifiedBy = _currentUser.Id;
+                    taskItem.OwnerID = _currentUser.CompanyId ?? "";
+                }
+                var putResult = await Put("TaskITems", taskItem, taskItem.Id);
                 return RedirectToAction(nameof(Index));
             }
             catch
